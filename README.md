@@ -1,7 +1,7 @@
 **Api-Java-Springboot-SQL**
 # Resumo do Projeto:
 
-  **Este projeto consiste na criação de uma aplicação Spring Boot em Java, abordando diversas etapas fundamentais para o desenvolvimento de uma API. O objetivo é implementar um modelo de domínio, estruturar as camadas lógicas (resource, service, repository), configurar um banco de dados de teste (H2), realizar o povoamento inicial do banco, e implementar operações CRUD (Create, Retrieve, Update, Delete). Além disso, será enfatizado o tratamento de exceções para garantir a robustez da aplicação.**
+  **Este projeto consiste na criação de uma aplicação Spring Boot em Java, abordando diversas etapas fundamentais para o desenvolvimento de uma API. O objetivo é implementar um modelo de domínio, estruturar as camadas lógicas (resource, service, repository), configurar um banco de dados de teste (H2), realizar o povoamento inicial do banco, e implementar operações CRUD (Create, Read, Update, Delete). Além disso, será enfatizado o tratamento de exceções para garantir a robustez da aplicação.**
 
 # Etapas Principais:
 
